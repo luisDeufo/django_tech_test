@@ -1,2 +1,2 @@
 # coding: utf8
-from .base import *
+from urbvan.settings.base import *
